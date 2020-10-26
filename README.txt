@@ -16,8 +16,10 @@ discord bot link: https://discord.com/api/oauth2/authorize?client_id=76784944806
 ***TO RUN***
 
 
-git clone https://github.tamu.edu/rvutukuru4226/project3.git
+git clone https://github.com/lopezballer/KO-bot.git
 
+
+(tamu school repo: https://github.tamu.edu/rvutukuru4226/project3)
 
 then,
 
