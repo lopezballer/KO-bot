@@ -11,6 +11,10 @@ you want to add it to***
 
 discord bot link: https://discord.com/api/oauth2/authorize?client_id=767849448067825674&permissions=38912&scope=bot
 
+
+
+***REQUEST FOR DISCORD BOT TOKEN***
+
 ===================================================================================================================
 
 ***TO RUN***

@@ -4,6 +4,7 @@
 
 
 const Discord = require('discord.js');
+//incorrect token; request for proper token in order to get the bot to work
 const token = 'NzY3ODQ5NDQ4MDY3ODI1Njc0.X435hg.mXOTKKPUSQeE6NOU8KhIuTOxOCM';
 const bot = new Discord.Client();
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
